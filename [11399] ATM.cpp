@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int N;
-    cin >> N;   // N, K 입력
+    cin >> N;   // N 입력
     
    int i;
    for ( i = 0; i < N; i++) {
