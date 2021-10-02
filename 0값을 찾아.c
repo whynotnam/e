@@ -15,7 +15,6 @@ int main() {
 
 ​	int n = sizeof(arr1) / sizeof(arr1[0]);
 	int arr2[n];
-	int j = 0;
 
 	for (int i = j; i < n; i++) {
 	arr2[i] = 0;
